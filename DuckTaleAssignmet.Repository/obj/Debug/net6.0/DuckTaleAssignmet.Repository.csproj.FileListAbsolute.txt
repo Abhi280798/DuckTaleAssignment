@@ -1,0 +1,14 @@
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Repository\bin\Debug\net6.0\DuckTaleAssignmet.Repository.deps.json
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Repository\bin\Debug\net6.0\DuckTaleAssignmet.Repository.runtimeconfig.json
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Repository\bin\Debug\net6.0\DuckTaleAssignmet.Repository.dll
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Repository\bin\Debug\net6.0\DuckTaleAssignmet.Repository.pdb
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Repository\obj\Debug\net6.0\DuckTaleAssignmet.Repository.csproj.AssemblyReference.cache
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Repository\obj\Debug\net6.0\DuckTaleAssignmet.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Repository\obj\Debug\net6.0\DuckTaleAssignmet.Repository.AssemblyInfoInputs.cache
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Repository\obj\Debug\net6.0\DuckTaleAssignmet.Repository.AssemblyInfo.cs
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Repository\obj\Debug\net6.0\DuckTaleAssignmet.Repository.csproj.CoreCompileInputs.cache
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Repository\obj\Debug\net6.0\DuckTaleAssignmet.Repository.dll
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Repository\obj\Debug\net6.0\refint\DuckTaleAssignmet.Repository.dll
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Repository\obj\Debug\net6.0\DuckTaleAssignmet.Repository.pdb
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Repository\obj\Debug\net6.0\DuckTaleAssignmet.Repository.genruntimeconfig.cache
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Repository\obj\Debug\net6.0\ref\DuckTaleAssignmet.Repository.dll

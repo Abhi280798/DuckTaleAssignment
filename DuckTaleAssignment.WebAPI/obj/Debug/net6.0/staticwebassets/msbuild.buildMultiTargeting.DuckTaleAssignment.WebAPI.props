@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DuckTaleAssignment.WebAPI.props" />
+</Project>

@@ -1,0 +1,11 @@
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Dto\bin\Debug\net6.0\DuckTaleAssignmet.Dto.deps.json
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Dto\bin\Debug\net6.0\DuckTaleAssignmet.Dto.dll
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Dto\bin\Debug\net6.0\DuckTaleAssignmet.Dto.pdb
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Dto\obj\Debug\net6.0\DuckTaleAssignmet.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Dto\obj\Debug\net6.0\DuckTaleAssignmet.Dto.AssemblyInfoInputs.cache
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Dto\obj\Debug\net6.0\DuckTaleAssignmet.Dto.AssemblyInfo.cs
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Dto\obj\Debug\net6.0\DuckTaleAssignmet.Dto.csproj.CoreCompileInputs.cache
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Dto\obj\Debug\net6.0\DuckTaleAssignmet.Dto.dll
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Dto\obj\Debug\net6.0\refint\DuckTaleAssignmet.Dto.dll
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Dto\obj\Debug\net6.0\DuckTaleAssignmet.Dto.pdb
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignmet.Dto\obj\Debug\net6.0\ref\DuckTaleAssignmet.Dto.dll

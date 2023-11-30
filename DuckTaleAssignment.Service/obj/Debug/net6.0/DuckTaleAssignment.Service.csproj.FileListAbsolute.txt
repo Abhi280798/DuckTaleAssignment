@@ -1,0 +1,17 @@
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignment.Service\bin\Debug\net6.0\DuckTaleAssignment.Service.deps.json
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignment.Service\bin\Debug\net6.0\DuckTaleAssignment.Service.dll
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignment.Service\bin\Debug\net6.0\DuckTaleAssignment.Service.pdb
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignment.Service\bin\Debug\net6.0\DuckTaleAssignmet.Dto.dll
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignment.Service\bin\Debug\net6.0\DuckTaleAssignmet.Repository.dll
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignment.Service\bin\Debug\net6.0\DuckTaleAssignmet.Dto.pdb
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignment.Service\bin\Debug\net6.0\DuckTaleAssignmet.Repository.pdb
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignment.Service\obj\Debug\net6.0\DuckTaleAssignment.Service.csproj.AssemblyReference.cache
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignment.Service\obj\Debug\net6.0\DuckTaleAssignment.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignment.Service\obj\Debug\net6.0\DuckTaleAssignment.Service.AssemblyInfoInputs.cache
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignment.Service\obj\Debug\net6.0\DuckTaleAssignment.Service.AssemblyInfo.cs
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignment.Service\obj\Debug\net6.0\DuckTaleAssignment.Service.csproj.CoreCompileInputs.cache
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignment.Service\obj\Debug\net6.0\DuckTaleAssignment.Service.csproj.CopyComplete
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignment.Service\obj\Debug\net6.0\DuckTaleAssignment.Service.dll
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignment.Service\obj\Debug\net6.0\refint\DuckTaleAssignment.Service.dll
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignment.Service\obj\Debug\net6.0\DuckTaleAssignment.Service.pdb
+D:\Practices\DuckTaleAssignment.WebAPI\DuckTaleAssignment.Service\obj\Debug\net6.0\ref\DuckTaleAssignment.Service.dll
